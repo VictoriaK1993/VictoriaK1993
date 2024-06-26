@@ -24,6 +24,8 @@ management and problem-solving skills. I have a robust academic background and a
 
   - [Package Delivery Pathway](https://github.com/VictoriaK1993/Package-Delivery-Pathway/tree/main)
 
+  - [Data Analysis-House Prediction](https://github.com/VictoriaK1993/Data-Analysis-House-Prediction)
+
 
 <h2>Certifications </h2>
 
