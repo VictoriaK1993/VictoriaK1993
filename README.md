@@ -1,5 +1,16 @@
 <h1>Hi, I'm Victoria Kizzee! </h1>
 
+<h2>About Me </h2>
+A hardworking and passionate job seeker with 
+strong organizational skills eager to secure 
+an entry-level Cybersecurity position. Ready to 
+help the team achieve company goals. Detail-oriented team player with strong 
+organizational skills. Ability to handle multiple 
+projects simultaneously with a high degree of 
+accuracy. I'm looking to seek and maintain a full-time  position that offers professional challenges 
+utilizing interpersonal skills, excellent time 
+management and problem-solving skills. I have a robust academic background and a passion for technology. Proven organizational and problem-solving skills, complemented by the ability to manage multiple projects precisely. Looking to leverage my technical expertise and collaborative spirit to contribute to the success of a dynamic tech team.
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
@@ -13,22 +24,14 @@
 
   - [Package Delivery Pathway](https://github.com/VictoriaK1993/Package-Delivery-Pathway/tree/main)
 
-<h2>About Me </h2>
-A hardworking and passionate job seeker with 
-strong organizational skills eager to secure 
-an entry-level Cybersecurity position. Ready to 
-help the team achieve company goals. Detail-oriented team player with strong 
-organizational skills. Ability to handle multiple 
-projects simultaneously with a high degree of 
-accuracy. I'm looking to seek and maintain a full-time  position that offers professional challenges 
-utilizing interpersonal skills, excellent time 
-management and problem-solving skills. I have a robust academic background and a passion for technology. Proven organizational and problem-solving skills, complemented by the ability to manage multiple projects precisely. Looking to leverage my technical expertise and collaborative spirit to contribute to the success of a dynamic tech team.
 
 <h2>Certifications </h2>
 
 -[Google AI Essentials] (https://www.coursera.org/account/accomplishments/verify/LHDXDBKSC6V5) 
 
 -[Google Professional Cybersecurity Certificate] (https://www.coursera.org/account/accomplishments/specialization/FAPLAV5SADU6)
+
+-[Comptia Security+ COMING SOON]
 
 <h2> 🤳 Connect with me:</h2>
 
