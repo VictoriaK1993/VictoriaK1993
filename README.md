@@ -28,6 +28,8 @@ management and problem-solving skills. I have a robust academic background and a
 
   - [Cryptography-Public Key](https://github.com/VictoriaK1993/Cryptography--Public-Key)
 
+  - [SOC Analyst](https://github.com/VictoriaK1993/SOC-Analyst)
+
 
 <h2>📜 Certifications </h2>
 
