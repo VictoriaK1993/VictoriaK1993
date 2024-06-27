@@ -1,4 +1,4 @@
-<h1>Hi, I'm Victoria Kizzee! </h1>
+<h1>Hi, I'm Victoria Kizzee! 👩🏽‍🎓🎓 </h1>
 
 <h2>About Me </h2>
 A hardworking and passionate job seeker with 
@@ -11,7 +11,7 @@ accuracy. I'm looking to seek and maintain a full-time  position that offers pro
 utilizing interpersonal skills, excellent time 
 management and problem-solving skills. I have a robust academic background and a passion for technology. Proven organizational and problem-solving skills, complemented by the ability to manage multiple projects precisely. Looking to leverage my technical expertise and collaborative spirit to contribute to the success of a dynamic tech team.
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👩🏽‍💻 Cybersecurity Projects:</h2>
 
 
   - [Active Directory Home Lab](https://github.com/VictoriaK1993/Active-Directory-Home-Lab)
@@ -29,7 +29,7 @@ management and problem-solving skills. I have a robust academic background and a
   - [Cryptography-Public Key](https://github.com/VictoriaK1993/Cryptography--Public-Key)
 
 
-<h2>Certifications </h2>
+<h2>📜 Certifications </h2>
 
 -[Google AI Essentials] (https://www.coursera.org/account/accomplishments/verify/LHDXDBKSC6V5) 
 
