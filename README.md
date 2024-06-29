@@ -30,6 +30,8 @@ management and problem-solving skills. I have a robust academic background and a
 
   - [SOC Analyst](https://github.com/VictoriaK1993/SOC-Analyst)
 
+  - [Network Traffic Analyzer](https://github.com/VictoriaK1993/Network-Traffic-Analyzer)
+
 
 <h2>📜 Certifications </h2>
 
