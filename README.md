@@ -34,6 +34,8 @@ management and problem-solving skills. I have a robust academic background and a
 
   - [Vulnerabilty Scanner](https://github.com/VictoriaK1993/Vulnerability-Scanner)
 
+  - [SIEM Threat Intelligence](https://github.com/VictoriaK1993/SIEM-Treat-Intelligence)
+
 
 <h2>📜 Certifications </h2>
 
