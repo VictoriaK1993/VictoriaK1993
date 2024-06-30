@@ -65,7 +65,7 @@ I am an enthusiastic and detail-oriented entry-level Cybersecurity Analyst with 
 
 ![Victoria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VictoriaK1993&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictoriaK1993&layout=compact&theme=radical)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VictoriaK1993&theme=radical&hide_border=true)
 ---
 
 I am always eager to learn and explore new technologies. Feel free to check out my repositories and connect with me for any potential collaboration or opportunities!
