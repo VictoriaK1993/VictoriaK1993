@@ -27,26 +27,39 @@ I am an enthusiastic and detail-oriented entry-level Cybersecurity Analyst with 
 
 ## 🚀 Projects
 
-### [Active Directory Home Lab](https://github.com/VictoriaK1993/Active-Directory-Home-Lab)
-**Description:** Developed a comprehensive Active Directory (AD) home lab to simulate a real-world enterprise environment. Implemented various AD roles and features, including user and group management, Group Policy, DNS, and DHCP. Conducted security assessments and vulnerability scans within the AD environment to identify and mitigate potential security risks.
+### 1. [Active Directory Home Lab](https://github.com/VictoriaK1993/Active-Directory-Home-Lab)
+**Description:** Developed a comprehensive Active Directory (AD) home lab to simulate a real-world enterprise environment. Implemented various AD roles and features, including user and group management, Group Policy, DNS, and DHCP.
 
-### [Encryption](https://github.com/VictoriaK1993/Encryption)
-**Description:** Created a text encryption tool using various cryptographic algorithms such as AES, RSA, and SHA-256. Implemented encryption and decryption functionalities to ensure secure data transmission and storage. Conducted tests to validate the strength and reliability of the encryption algorithms.
+### 2. [Encryption](https://github.com/VictoriaK1993/Encryption)
+**Description:** Created a text encryption tool using cryptographic algorithms to secure sensitive data, demonstrating knowledge in data protection and encryption methodologies.
 
-### [Key Logger](https://github.com/VictoriaK1993/Key-Logger)
-**Description:** Developed a keylogger tool to understand how such malicious software operates, highlighting the importance of detection and prevention techniques. The project demonstrates the significance of keylogger detection and mitigation strategies.
+### 3. [Key Logger](https://github.com/VictoriaK1993/Key-Logger)
+**Description:** Developed a keylogger tool to understand how such malicious software operates, highlighting the importance of detection and prevention techniques.
 
-### [SIEM Threat Intelligence](https://github.com/VictoriaK1993/SIEM-Threat-Intelligence)
-**Description:** Developed a Security Information and Event Management (SIEM) system to monitor and analyze network traffic for potential threats. Integrated various data sources, including firewall logs, IDS/IPS logs, and server logs, to provide comprehensive threat visibility.
+### 4. [Incident Response Report](https://github.com/VictoriaK1993/Incident-Report)
+**Description:** Developed an incident reporting system that streamlined the process of documenting and analyzing security incidents, improving response times.
 
-### [Incident Response Report](https://github.com/VictoriaK1993/Incident-Response-Report)
-**Description:** Created a detailed incident response report documenting the process of identifying, analyzing, and mitigating a security incident. The project showcases my ability to handle real-world cybersecurity threats effectively.
+### 5. [Package Delivery Pathway](https://github.com/VictoriaK1993/Package-Delivery-Pathway)
+**Description:** Analyzed and optimized the package delivery process using data analytics, enhancing efficiency and reducing delivery times.
 
-### [Network Traffic Analyzer](https://github.com/VictoriaK1993/Network-Traffic-Analyzer)
-**Description:** Built a network traffic analyzer to monitor and analyze network traffic for suspicious activity. Used signature-based detection and anomaly-based detection techniques to identify potential intrusions.
+### 6. [Data Analysis-House Prediction](https://github.com/VictoriaK1993/Data-Analysis-House-Prediction)
+**Description:** Utilized machine learning algorithms to predict house prices based on various features, demonstrating data analysis and predictive modeling skills.
 
-### [Vulnerability Scanner](https://github.com/VictoriaK1993/Vulnerability-Scanner)
-**Description:** Developed a vulnerability scanner tool to scan web applications for common vulnerabilities such as SQL injection, XSS, and CSRF. Included detailed reports on discovered vulnerabilities and remediation steps.
+### 7. [Cryptography-Public Key](https://github.com/VictoriaK1993/Cryptography-Public-Key)
+**Description:** Implemented a public key cryptography system for secure data exchange, emphasizing encryption, decryption, and key management practices.
+
+### 8. [SOC Analyst](https://github.com/VictoriaK1993/SOC-Analyst)
+**Description:** Conducted security operations center (SOC) analysis, monitoring network traffic for potential threats and responding to security incidents.
+
+### 9. [Network Traffic Analyzer](https://github.com/VictoriaK1993/Network-Traffic-Analyzer)
+**Description:** Developed a tool to analyze network traffic for anomalies and potential security threats, demonstrating network security monitoring skills.
+
+### 10. [Vulnerability Scanner](https://github.com/VictoriaK1993/Vulnerability-Scanner)
+**Description:** Created a vulnerability scanner to identify and report on common security vulnerabilities in web applications.
+
+### 11. [SIEM Threat Intelligence](https://github.com/VictoriaK1993/SIEM-Threat-Intelligence)
+**Description:** Developed a Security Information and Event Management (SIEM) system to monitor and analyze network traffic for potential threats.
+
 
 ## 📈 GitHub Stats
 
