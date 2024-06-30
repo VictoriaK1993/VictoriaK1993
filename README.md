@@ -7,6 +7,10 @@ I am an enthusiastic and detail-oriented entry-level Cybersecurity Analyst with 
 - 📫 **Contact Me:**
   - Email: [victoriakizzee93@gmail.com](mailto:victoriakizzee93@gmail.com)
   - LinkedIn: [Victoria Kizzee](https://linkedin.com/in/victoria-kizzee-cyber1993)
+ 
+## 🎓 Education
+- **Bachelor of Applied Technology in Cybersecurity** - Lone Star Community College (December 2022 - July 2024)
+- **Associate of Applied Science in Computer Programming Specialist** - Lone Star Community College (August 2020 – December 2022)
 
 ## 🛠️ Skills & Technologies
 
