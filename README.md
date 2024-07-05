@@ -57,7 +57,7 @@ I am an enthusiastic and detail-oriented entry-level Cybersecurity Analyst with 
 ### 10. [Vulnerability Scanner](https://github.com/VictoriaK1993/Vulnerability-Scanner)
 **Description:** Created a vulnerability scanner to identify and report on common security vulnerabilities in web applications.
 
-### 11. [SIEM Threat Intelligence](https://github.com/VictoriaK1993/SIEM-Threat-Intelligence)
+### 11. [SIEM Threat Intelligence](https://github.com/VictoriaK1993/SIEM-Treat-Intelligence)
 **Description:** Developed a Security Information and Event Management (SIEM) system to monitor and analyze network traffic for potential threats.
 
 
