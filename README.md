@@ -45,7 +45,7 @@ I am an enthusiastic and detail-oriented entry-level Cybersecurity Analyst with 
 ### 6. [Data Analysis-House Prediction](https://github.com/VictoriaK1993/Data-Analysis-House-Prediction)
 **Description:** Utilized machine learning algorithms to predict house prices based on various features, demonstrating data analysis and predictive modeling skills.
 
-### 7. [Cryptography-Public Key](https://github.com/VictoriaK1993/Cryptography-Public-Key)
+### 7. [Cryptography-Public Key](https://github.com/VictoriaK1993/Cryptography--Public-Key)
 **Description:** Implemented a public key cryptography system for secure data exchange, emphasizing encryption, decryption, and key management practices.
 
 ### 8. [SOC Analyst](https://github.com/VictoriaK1993/SOC-Analyst)
