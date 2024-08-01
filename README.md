@@ -22,7 +22,6 @@ I am an enthusiastic and detail-oriented entry-level Cybersecurity Analyst with 
 
 ## 🏆 Certifications
 
-- **CompTIA Security+** (Expected July 2024)
 - **Google Professional Cybersecurity Certificate** (June 2024)
 
 ## 🚀 Projects
@@ -59,6 +58,9 @@ I am an enthusiastic and detail-oriented entry-level Cybersecurity Analyst with 
 
 ### 11. [SIEM Threat Intelligence](https://github.com/VictoriaK1993/SIEM-Treat-Intelligence)
 **Description:** Developed a Security Information and Event Management (SIEM) system to monitor and analyze network traffic for potential threats.
+
+### 12. [Bug Bounty Platforms](https://github.com/VictoriaK1993/Bug-Bounty-Platforms)
+**Description:**  An open-source platform designed to facilitate and manage bug bounty programs
 
 
 ## 📈 GitHub Stats
